@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chris-computer-vision
 - 👀 I’m interested in computer vision, natural language processing and machine learning
 - 🌱 I’m currently learning golang and backend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 chris-computer-vision/chris-computer-vision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
